@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<ruleset name="dominio/app">
+    <description>A custom coding standard based on Doctrine and PSRs</description>
+
+    <arg name="colors" />
+    <arg value="s" />
+
+    <config name="show_progress" value="1"/>
+    <config name="report_width" value="140" />
+
+    <rule ref="Doctrine" />
+
+    <file>./src</file>
+    <file>./tests</file>
+
+    <exclude-pattern>./vendor/*</exclude-pattern>
+    <exclude-pattern>./src/Kernel.php</exclude-pattern>
+
+    <!-- Remove a identação em linha reta em atribuições   -->
+    <rule ref="Generic.Formatting.MultipleStatementAlignment">
+        <properties>
+            <property name="maxPadding" value="1"/>
+            <property name="ignoreMultiLine" value="true"/>
+            <property name="error" value="true"/>
+        </properties>
+    </rule>
+
+    <!-- Remove o erro de propriedade privada não sendo utilizada em leitura   -->
+    <rule ref="SlevomatCodingStandard.Classes.UnusedPrivateElements.WriteOnlyProperty">
+		<exclude name="SlevomatCodingStandard.Classes.UnusedPrivateElements.WriteOnlyProperty"/>
+	</rule>
+
+    <!-- Permite que os nomes dos testes sigam o padrão sneak_case para terem maior legibilidade. -->
+    <rule ref="PSR1">
+        <exclude name="PSR1.Methods.CamelCapsMethodName.NotCamelCaps"/>
+        <exclude-pattern>*/tests/*</exclude-pattern>
+    </rule>
+
+</ruleset>

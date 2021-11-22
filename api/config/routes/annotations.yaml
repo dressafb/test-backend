@@ -1,0 +1,12 @@
+# core_controllers:
+#     resource: ../../src/Core/Infrastructure/Controller
+#     type: annotation
+
+product_controller:
+  resource: '../../src/Product/Infrastructure/Delivery'
+  type: annotation
+
+kernel:
+    resource: ../../src/Kernel.php
+    type: annotation
+

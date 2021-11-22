@@ -1,0 +1,22 @@
+doctrine:
+    dbal:
+        url: 'mysql://%env(DB_USER)%:%env(DB_PASSWORD)%@%env(DB_SERVER)%:%env(DB_PORT)%/%env(DB_NAME)%'
+        server_version: '8'
+        charset: utf8mb4
+        default_table_options:
+            charset: utf8mb4
+            collate: utf8mb4_0900_ai_ci
+        types:
+            datetime_immutable: \Carbon\Doctrine\DateTimeImmutableType
+            datetime: \Carbon\Doctrine\DateTimeType
+
+    orm:
+        auto_generate_proxy_classes: true
+        naming_strategy: doctrine.orm.naming_strategy.underscore_number_aware
+        auto_mapping: true
+        dql:
+            string_functions:
+                JSON_CONTAINS: Scienta\DoctrineJsonFunctions\Query\AST\Functions\Mysql\JsonContains
+                JSON_EXTRACT: Scienta\DoctrineJsonFunctions\Query\AST\Functions\Mysql\JsonExtract
+                JSON_SEARCH: Scienta\DoctrineJsonFunctions\Query\AST\Functions\Mysql\JsonSearch
+                DATE: DoctrineExtensions\Query\Mysql\Date

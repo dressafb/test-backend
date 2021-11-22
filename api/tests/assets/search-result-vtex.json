@@ -1,0 +1,905 @@
+[
+    {
+        "productId": "27001",
+        "productName": "Adorada Phytoderm Perfume Feminino - Deo Colônia",
+        "brand": "Phytoderm",
+        "brandId": 2000473,
+        "brandImageUrl": null,
+        "linkText": "adorada-phytoderm-perfume-feminino-deo-colonia",
+        "productReference": "27001",
+        "productReferenceCode": "27001",
+        "categoryId": "1000002",
+        "productTitle": "Perfume Adorada Phytoderm - Feminino",
+        "metaTagDescription": "A Águas Perfumada de Phytoderm Adorada é leve, refrescante e extremamente perfumada. Confira já!",
+        "releaseDate": "2018-10-24T00:00:00",
+        "clusterHighlights": {
+            "1265": "Flag-BLACKFRIDAY"
+        },
+        "productClusters": {
+            "1053": "CL_Blog30_1053",
+            "1232": "CL_Blog20_1232",
+            "1265": "Flag-BLACKFRIDAY",
+            "1474": "CL_Perfumes-categoria_1474",
+            "1793": "CL_midia30_1793",
+            "1806": "CL_Site-Todo_1806",
+            "2036": "Clickspace Todas"
+        },
+        "searchableClusters": {},
+        "categories": [
+            "/Perfumes/Perfume Feminino/",
+            "/Perfumes/"
+        ],
+        "categoriesIds": [
+            "/1000001/1000002/",
+            "/1000001/"
+        ],
+        "link": "https://www.epocacosmeticos.com.br/adorada-phytoderm-perfume-feminino-deo-colonia/p",
+        "Categoria Google": [
+            "479"
+        ],
+        "Categoria Geral": [
+            "Categoria Google"
+        ],
+        "Gênero:": [
+            "Feminino"
+        ],
+        "Gênero": [
+            "Gênero:"
+        ],
+        "Concentração:": [
+            "Deo Cologne"
+        ],
+        "Concentração": [
+            "Concentração:"
+        ],
+        "Familia Olfativa:": [
+            "Floral",
+            "Frutal"
+        ],
+        "Familia Olfativa": [
+            "Familia Olfativa:"
+        ],
+        "Variação produto": [
+            "volume"
+        ],
+        "Variação": [
+            "Variação produto"
+        ],
+        "Notas de Topo:": [
+            "Limão, Verbena, Laranja e Pimenta preta"
+        ],
+        "Notas de Topo": [
+            "Notas de Topo:"
+        ],
+        "Notas de Coração:": [
+            "Rosa, Lavanda, Flor de Laranjeira, Jasmim e Gerânio"
+        ],
+        "Notas de Coração": [
+            "Notas de Coração:"
+        ],
+        "Notas de Fundo:": [
+            "Patchouli, Cedro, Musgo e Musks"
+        ],
+        "allSpecifications": [
+            "Categoria Google",
+            "Gênero:",
+            "Concentração:",
+            "Familia Olfativa:",
+            "Variação produto",
+            "Notas de Topo:",
+            "Notas de Coração:",
+            "Notas de Fundo:"
+        ],
+        "allSpecificationsGroups": [
+            "Categoria Geral",
+            "Gênero",
+            "Concentração",
+            "Familia Olfativa",
+            "Variação",
+            "Notas de Topo",
+            "Notas de Coração",
+            "Notas de Fundo:"
+        ],
+        "description": "A Águas Perfumada de <strong>Phytoderm</strong>, <strong>Adorada</strong> é leve, refrescante e extremamente perfumada.  Uma versão para cada estilo e personalidade da mulher brasileira. \r\n\r\n<strong>A Fragrância:</strong>\r\nA água perfumada Adorada de Phytoderm transmite um frescor cítrico amadeirado, através das notas de limão, verbena e laranja, que proporcionam uma agradável sensação de refrescância e conforto. Adorada foi inspirada em mulheres autênticas e descontraídas. \r\n\r\n<strong>Notas:</strong>\r\n<strong>Topo:</strong> Limão, Verbena, Laranja e Pimenta preta.\r\n<strong>Coração:</strong> Rosa, Lavanda, Flor de Laranjeira, Jasmim e Gerânio.\r\n<strong>Fundo:</strong> Patchouli, Cedro, Musgo e Musks.\r\n\r\n<strong>A Marca:</strong>\r\nA consagrada marca de perfumes <strong>Phytoderm</strong> traduz tendências nacionais e internacionais em colônias modernas e sofisticadas desde 1986 no mercado brasileiro. Opções perfeitas para o seu estilo e para todas as ocasiões. Nos últimos anos, o portfólio passou por um processo de modernização, resultando em uma gama de colônias e produtos para diferenciados perfis e ocasiões, com fragrâncias modernas e vibrantes.",
+        "items": [
+            {
+                "itemId": "36645",
+                "name": "250ml",
+                "nameComplete": "Adorada Phytoderm Perfume Feminino - Deo Colônia 250ml",
+                "complementName": "A Águas Perfumada de Phytoderm Adorada é leve, refrescante e extremamente perfumada.",
+                "ean": "7891176117288",
+                "referenceId": [
+                    {
+                        "Key": "RefId",
+                        "Value": "047856"
+                    }
+                ],
+                "measurementUnit": "un",
+                "unitMultiplier": 1.0000,
+                "modalType": null,
+                "isKit": false,
+                "images": [
+                    {
+                        "imageId": "283033",
+                        "imageLabel": "aguaadorada",
+                        "imageTag": "<img src=\"~/arquivos/ids/283033-#width#-#height#/agua-adorada1.jpg?v=636759764304030000\" width=\"#width#\" height=\"#height#\" alt=\"agua-adorada1\" id=\"\" />",
+                        "imageUrl": "http://epocacosmeticos.vteximg.com.br/arquivos/ids/283033/agua-adorada1.jpg?v=636759764304030000",
+                        "imageText": "agua-adorada1",
+                        "imageLastModified": "2018-10-24T11:13:50.4030000Z"
+                    },
+                    {
+                        "imageId": "283034",
+                        "imageLabel": "aguaadorada",
+                        "imageTag": "<img src=\"~/arquivos/ids/283034-#width#-#height#/agua-adorada.jpg?v=636759764441630000\" width=\"#width#\" height=\"#height#\" alt=\"agua-adorada\" id=\"\" />",
+                        "imageUrl": "http://epocacosmeticos.vteximg.com.br/arquivos/ids/283034/agua-adorada.jpg?v=636759764441630000",
+                        "imageText": "agua-adorada",
+                        "imageLastModified": "2018-10-24T11:14:04.1630000Z"
+                    }
+                ],
+                "tamanho sku": [
+                    "250ml"
+                ],
+                "variations": [
+                    "tamanho sku"
+                ],
+                "sellers": [
+                    {
+                        "sellerId": "1",
+                        "sellerName": "Época Cosméticos",
+                        "addToCartLink": "https://www.epocacosmeticos.com.br/checkout/cart/add?sku=36645&qty=1&seller=1&sc=1&price=990&cv=643AA9293E0C41B4B8339ADCBAB3E643_&sc=1",
+                        "sellerDefault": true,
+                        "commertialOffer": {
+                            "DeliverySlaSamplesPerRegion": {
+                                "0": {
+                                    "DeliverySlaPerTypes": [],
+                                    "Region": null
+                                }
+                            },
+                            "Installments": [
+                                {
+                                    "Value": 9.9,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 9.9,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "American Express",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "American Express à vista"
+                                },
+                                {
+                                    "Value": 9.9,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 9.9,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Visa",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Visa à vista"
+                                },
+                                {
+                                    "Value": 9.9,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 9.9,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Diners",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Diners à vista"
+                                },
+                                {
+                                    "Value": 9.9,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 9.9,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Mastercard",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Mastercard à vista"
+                                },
+                                {
+                                    "Value": 9.9,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 9.9,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Boleto Bancário",
+                                    "PaymentSystemGroupName": "bankInvoicePaymentGroup",
+                                    "Name": "Boleto Bancário à vista"
+                                },
+                                {
+                                    "Value": 9.9,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 9.9,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Hipercard",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Hipercard à vista"
+                                },
+                                {
+                                    "Value": 9.9,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 9.9,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Elo",
+                                    "PaymentSystemGroupName": "creditCardPaymentGroup",
+                                    "Name": "Elo à vista"
+                                },
+                                {
+                                    "Value": 9.9,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 9.9,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Vale",
+                                    "PaymentSystemGroupName": "giftCardPaymentGroup",
+                                    "Name": "Vale à vista"
+                                },
+                                {
+                                    "Value": 9.9,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 9.9,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Venda Direta Debito",
+                                    "PaymentSystemGroupName": "debitDirectSalePaymentGroup",
+                                    "Name": "Venda Direta Debito à vista"
+                                },
+                                {
+                                    "Value": 9.9,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 9.9,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Venda Direta Credito",
+                                    "PaymentSystemGroupName": "creditDirectSalePaymentGroup",
+                                    "Name": "Venda Direta Credito à vista"
+                                },
+                                {
+                                    "Value": 9.9,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 9.9,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Apple Pay",
+                                    "PaymentSystemGroupName": "ApplePayPaymentGroup",
+                                    "Name": "Apple Pay à vista"
+                                },
+                                {
+                                    "Value": 9.9,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 9.9,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "SpinPay",
+                                    "PaymentSystemGroupName": "SpinPayPaymentGroup",
+                                    "Name": "SpinPay à vista"
+                                },
+                                {
+                                    "Value": 9.9,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 9.9,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Cartão de débito virtual Caixa",
+                                    "PaymentSystemGroupName": "virtualDebitEloPaymentGroup",
+                                    "Name": "Cartão de débito virtual Caixa à vista"
+                                },
+                                {
+                                    "Value": 9.9,
+                                    "InterestRate": 0.0,
+                                    "TotalValuePlusInterestRate": 9.9,
+                                    "NumberOfInstallments": 1,
+                                    "PaymentSystemName": "Pix",
+                                    "PaymentSystemGroupName": "instantPaymentPaymentGroup",
+                                    "Name": "Pix à vista"
+                                }
+                            ],
+                            "DiscountHighLight": [],
+                            "GiftSkuIds": [],
+                            "Teasers": [],
+                            "BuyTogether": [],
+                            "ItemMetadataAttachment": [],
+                            "Price": 9.9,
+                            "ListPrice": 14.9,
+                            "PriceWithoutDiscount": 9.9,
+                            "RewardValue": 0.0,
+                            "PriceValidUntil": "2022-11-22T02:59:59Z",
+                            "AvailableQuantity": 90,
+                            "IsAvailable": true,
+                            "Tax": 0.0,
+                            "SaleChannel": 0,
+                            "DeliverySlaSamples": [
+                                {
+                                    "DeliverySlaPerTypes": [],
+                                    "Region": null
+                                }
+                            ],
+                            "GetInfoErrorMessage": null,
+                            "CacheVersionUsedToCallCheckout": "643AA9293E0C41B4B8339ADCBAB3E643_",
+                            "PaymentOptions": {
+                                "installmentOptions": [
+                                    {
+                                        "paymentSystem": "1",
+                                        "bin": null,
+                                        "paymentName": "American Express",
+                                        "paymentGroupName": "creditCardPaymentGroup",
+                                        "value": 990,
+                                        "installments": [
+                                            {
+                                                "count": 1,
+                                                "hasInterestRate": false,
+                                                "interestRate": 0,
+                                                "value": 990,
+                                                "total": 990,
+                                                "sellerMerchantInstallments": [
+                                                    {
+                                                        "id": "EPOCACOSMETICOS",
+                                                        "count": 1,
+                                                        "hasInterestRate": false,
+                                                        "interestRate": 0,
+                                                        "value": 990,
+                                                        "total": 990
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paymentSystem": "2",
+                                        "bin": null,
+                                        "paymentName": "Visa",
+                                        "paymentGroupName": "creditCardPaymentGroup",
+                                        "value": 990,
+                                        "installments": [
+                                            {
+                                                "count": 1,
+                                                "hasInterestRate": false,
+                                                "interestRate": 0,
+                                                "value": 990,
+                                                "total": 990,
+                                                "sellerMerchantInstallments": [
+                                                    {
+                                                        "id": "EPOCACOSMETICOS",
+                                                        "count": 1,
+                                                        "hasInterestRate": false,
+                                                        "interestRate": 0,
+                                                        "value": 990,
+                                                        "total": 990
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paymentSystem": "3",
+                                        "bin": null,
+                                        "paymentName": "Diners",
+                                        "paymentGroupName": "creditCardPaymentGroup",
+                                        "value": 990,
+                                        "installments": [
+                                            {
+                                                "count": 1,
+                                                "hasInterestRate": false,
+                                                "interestRate": 0,
+                                                "value": 990,
+                                                "total": 990,
+                                                "sellerMerchantInstallments": [
+                                                    {
+                                                        "id": "EPOCACOSMETICOS",
+                                                        "count": 1,
+                                                        "hasInterestRate": false,
+                                                        "interestRate": 0,
+                                                        "value": 990,
+                                                        "total": 990
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paymentSystem": "4",
+                                        "bin": null,
+                                        "paymentName": "Mastercard",
+                                        "paymentGroupName": "creditCardPaymentGroup",
+                                        "value": 990,
+                                        "installments": [
+                                            {
+                                                "count": 1,
+                                                "hasInterestRate": false,
+                                                "interestRate": 0,
+                                                "value": 990,
+                                                "total": 990,
+                                                "sellerMerchantInstallments": [
+                                                    {
+                                                        "id": "EPOCACOSMETICOS",
+                                                        "count": 1,
+                                                        "hasInterestRate": false,
+                                                        "interestRate": 0,
+                                                        "value": 990,
+                                                        "total": 990
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paymentSystem": "6",
+                                        "bin": null,
+                                        "paymentName": "Boleto Bancário",
+                                        "paymentGroupName": "bankInvoicePaymentGroup",
+                                        "value": 990,
+                                        "installments": [
+                                            {
+                                                "count": 1,
+                                                "hasInterestRate": false,
+                                                "interestRate": 0,
+                                                "value": 990,
+                                                "total": 990,
+                                                "sellerMerchantInstallments": [
+                                                    {
+                                                        "id": "EPOCACOSMETICOS",
+                                                        "count": 1,
+                                                        "hasInterestRate": false,
+                                                        "interestRate": 0,
+                                                        "value": 990,
+                                                        "total": 990
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paymentSystem": "8",
+                                        "bin": null,
+                                        "paymentName": "Hipercard",
+                                        "paymentGroupName": "creditCardPaymentGroup",
+                                        "value": 990,
+                                        "installments": [
+                                            {
+                                                "count": 1,
+                                                "hasInterestRate": false,
+                                                "interestRate": 0,
+                                                "value": 990,
+                                                "total": 990,
+                                                "sellerMerchantInstallments": [
+                                                    {
+                                                        "id": "EPOCACOSMETICOS",
+                                                        "count": 1,
+                                                        "hasInterestRate": false,
+                                                        "interestRate": 0,
+                                                        "value": 990,
+                                                        "total": 990
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paymentSystem": "9",
+                                        "bin": null,
+                                        "paymentName": "Elo",
+                                        "paymentGroupName": "creditCardPaymentGroup",
+                                        "value": 990,
+                                        "installments": [
+                                            {
+                                                "count": 1,
+                                                "hasInterestRate": false,
+                                                "interestRate": 0,
+                                                "value": 990,
+                                                "total": 990,
+                                                "sellerMerchantInstallments": [
+                                                    {
+                                                        "id": "EPOCACOSMETICOS",
+                                                        "count": 1,
+                                                        "hasInterestRate": false,
+                                                        "interestRate": 0,
+                                                        "value": 990,
+                                                        "total": 990
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paymentSystem": "16",
+                                        "bin": null,
+                                        "paymentName": "Vale",
+                                        "paymentGroupName": "giftCardPaymentGroup",
+                                        "value": 990,
+                                        "installments": [
+                                            {
+                                                "count": 1,
+                                                "hasInterestRate": false,
+                                                "interestRate": 0,
+                                                "value": 990,
+                                                "total": 990,
+                                                "sellerMerchantInstallments": [
+                                                    {
+                                                        "id": "EPOCACOSMETICOS",
+                                                        "count": 1,
+                                                        "hasInterestRate": false,
+                                                        "interestRate": 0,
+                                                        "value": 990,
+                                                        "total": 990
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paymentSystem": "44",
+                                        "bin": null,
+                                        "paymentName": "Venda Direta Debito",
+                                        "paymentGroupName": "debitDirectSalePaymentGroup",
+                                        "value": 990,
+                                        "installments": [
+                                            {
+                                                "count": 1,
+                                                "hasInterestRate": false,
+                                                "interestRate": 0,
+                                                "value": 990,
+                                                "total": 990,
+                                                "sellerMerchantInstallments": [
+                                                    {
+                                                        "id": "EPOCACOSMETICOS",
+                                                        "count": 1,
+                                                        "hasInterestRate": false,
+                                                        "interestRate": 0,
+                                                        "value": 990,
+                                                        "total": 990
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paymentSystem": "45",
+                                        "bin": null,
+                                        "paymentName": "Venda Direta Credito",
+                                        "paymentGroupName": "creditDirectSalePaymentGroup",
+                                        "value": 990,
+                                        "installments": [
+                                            {
+                                                "count": 1,
+                                                "hasInterestRate": false,
+                                                "interestRate": 0,
+                                                "value": 990,
+                                                "total": 990,
+                                                "sellerMerchantInstallments": [
+                                                    {
+                                                        "id": "EPOCACOSMETICOS",
+                                                        "count": 1,
+                                                        "hasInterestRate": false,
+                                                        "interestRate": 0,
+                                                        "value": 990,
+                                                        "total": 990
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paymentSystem": "69",
+                                        "bin": null,
+                                        "paymentName": "Apple Pay",
+                                        "paymentGroupName": "ApplePayPaymentGroup",
+                                        "value": 990,
+                                        "installments": [
+                                            {
+                                                "count": 1,
+                                                "hasInterestRate": false,
+                                                "interestRate": 0,
+                                                "value": 990,
+                                                "total": 990,
+                                                "sellerMerchantInstallments": [
+                                                    {
+                                                        "id": "EPOCACOSMETICOS",
+                                                        "count": 1,
+                                                        "hasInterestRate": false,
+                                                        "interestRate": 0,
+                                                        "value": 990,
+                                                        "total": 990
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paymentSystem": "94",
+                                        "bin": null,
+                                        "paymentName": "SpinPay",
+                                        "paymentGroupName": "SpinPayPaymentGroup",
+                                        "value": 990,
+                                        "installments": [
+                                            {
+                                                "count": 1,
+                                                "hasInterestRate": false,
+                                                "interestRate": 0,
+                                                "value": 990,
+                                                "total": 990,
+                                                "sellerMerchantInstallments": [
+                                                    {
+                                                        "id": "EPOCACOSMETICOS",
+                                                        "count": 1,
+                                                        "hasInterestRate": false,
+                                                        "interestRate": 0,
+                                                        "value": 990,
+                                                        "total": 990
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paymentSystem": "113",
+                                        "bin": null,
+                                        "paymentName": "Cartão de débito virtual Caixa",
+                                        "paymentGroupName": "virtualDebitEloPaymentGroup",
+                                        "value": 990,
+                                        "installments": [
+                                            {
+                                                "count": 1,
+                                                "hasInterestRate": false,
+                                                "interestRate": 0,
+                                                "value": 990,
+                                                "total": 990,
+                                                "sellerMerchantInstallments": [
+                                                    {
+                                                        "id": "EPOCACOSMETICOS",
+                                                        "count": 1,
+                                                        "hasInterestRate": false,
+                                                        "interestRate": 0,
+                                                        "value": 990,
+                                                        "total": 990
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "paymentSystem": "125",
+                                        "bin": null,
+                                        "paymentName": "Pix",
+                                        "paymentGroupName": "instantPaymentPaymentGroup",
+                                        "value": 990,
+                                        "installments": [
+                                            {
+                                                "count": 1,
+                                                "hasInterestRate": false,
+                                                "interestRate": 0,
+                                                "value": 990,
+                                                "total": 990,
+                                                "sellerMerchantInstallments": [
+                                                    {
+                                                        "id": "EPOCACOSMETICOS",
+                                                        "count": 1,
+                                                        "hasInterestRate": false,
+                                                        "interestRate": 0,
+                                                        "value": 990,
+                                                        "total": 990
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "paymentSystems": [
+                                    {
+                                        "id": 1,
+                                        "name": "American Express",
+                                        "groupName": "creditCardPaymentGroup",
+                                        "validator": null,
+                                        "stringId": "1",
+                                        "template": "creditCardPaymentGroup-template",
+                                        "requiresDocument": true,
+                                        "isCustom": false,
+                                        "description": null,
+                                        "requiresAuthentication": false,
+                                        "dueDate": "2021-11-29T18:54:53.0796817Z",
+                                        "availablePayments": null
+                                    },
+                                    {
+                                        "id": 2,
+                                        "name": "Visa",
+                                        "groupName": "creditCardPaymentGroup",
+                                        "validator": null,
+                                        "stringId": "2",
+                                        "template": "creditCardPaymentGroup-template",
+                                        "requiresDocument": true,
+                                        "isCustom": false,
+                                        "description": null,
+                                        "requiresAuthentication": false,
+                                        "dueDate": "2021-11-29T18:54:53.0796817Z",
+                                        "availablePayments": null
+                                    },
+                                    {
+                                        "id": 3,
+                                        "name": "Diners",
+                                        "groupName": "creditCardPaymentGroup",
+                                        "validator": null,
+                                        "stringId": "3",
+                                        "template": "creditCardPaymentGroup-template",
+                                        "requiresDocument": true,
+                                        "isCustom": false,
+                                        "description": null,
+                                        "requiresAuthentication": false,
+                                        "dueDate": "2021-11-29T18:54:53.0796817Z",
+                                        "availablePayments": null
+                                    },
+                                    {
+                                        "id": 4,
+                                        "name": "Mastercard",
+                                        "groupName": "creditCardPaymentGroup",
+                                        "validator": null,
+                                        "stringId": "4",
+                                        "template": "creditCardPaymentGroup-template",
+                                        "requiresDocument": true,
+                                        "isCustom": false,
+                                        "description": null,
+                                        "requiresAuthentication": false,
+                                        "dueDate": "2021-11-29T18:54:53.0796817Z",
+                                        "availablePayments": null
+                                    },
+                                    {
+                                        "id": 8,
+                                        "name": "Hipercard",
+                                        "groupName": "creditCardPaymentGroup",
+                                        "validator": null,
+                                        "stringId": "8",
+                                        "template": "creditCardPaymentGroup-template",
+                                        "requiresDocument": true,
+                                        "isCustom": false,
+                                        "description": null,
+                                        "requiresAuthentication": false,
+                                        "dueDate": "2021-11-29T18:54:53.0796817Z",
+                                        "availablePayments": null
+                                    },
+                                    {
+                                        "id": 9,
+                                        "name": "Elo",
+                                        "groupName": "creditCardPaymentGroup",
+                                        "validator": null,
+                                        "stringId": "9",
+                                        "template": "creditCardPaymentGroup-template",
+                                        "requiresDocument": true,
+                                        "isCustom": false,
+                                        "description": null,
+                                        "requiresAuthentication": false,
+                                        "dueDate": "2021-11-29T18:54:53.0796817Z",
+                                        "availablePayments": null
+                                    },
+                                    {
+                                        "id": 45,
+                                        "name": "Venda Direta Credito",
+                                        "groupName": "creditDirectSalePaymentGroup",
+                                        "validator": null,
+                                        "stringId": "45",
+                                        "template": "creditDirectSalePaymentGroup-template",
+                                        "requiresDocument": false,
+                                        "isCustom": false,
+                                        "description": null,
+                                        "requiresAuthentication": false,
+                                        "dueDate": "2021-11-29T18:54:53.0796817Z",
+                                        "availablePayments": null
+                                    },
+                                    {
+                                        "id": 69,
+                                        "name": "Apple Pay",
+                                        "groupName": "ApplePayPaymentGroup",
+                                        "validator": null,
+                                        "stringId": "69",
+                                        "template": "ApplePayPaymentGroup-template",
+                                        "requiresDocument": true,
+                                        "isCustom": false,
+                                        "description": null,
+                                        "requiresAuthentication": false,
+                                        "dueDate": "2021-11-29T18:54:53.0796817Z",
+                                        "availablePayments": null
+                                    },
+                                    {
+                                        "id": 44,
+                                        "name": "Venda Direta Debito",
+                                        "groupName": "debitDirectSalePaymentGroup",
+                                        "validator": null,
+                                        "stringId": "44",
+                                        "template": "debitDirectSalePaymentGroup-template",
+                                        "requiresDocument": false,
+                                        "isCustom": false,
+                                        "description": null,
+                                        "requiresAuthentication": false,
+                                        "dueDate": "2021-11-29T18:54:53.0796817Z",
+                                        "availablePayments": null
+                                    },
+                                    {
+                                        "id": 113,
+                                        "name": "Cartão de débito virtual Caixa",
+                                        "groupName": "virtualDebitEloPaymentGroup",
+                                        "validator": null,
+                                        "stringId": "113",
+                                        "template": "virtualDebitEloPaymentGroup-template",
+                                        "requiresDocument": true,
+                                        "isCustom": false,
+                                        "description": null,
+                                        "requiresAuthentication": false,
+                                        "dueDate": "2021-11-29T18:54:53.0796817Z",
+                                        "availablePayments": null
+                                    },
+                                    {
+                                        "id": 94,
+                                        "name": "SpinPay",
+                                        "groupName": "SpinPayPaymentGroup",
+                                        "validator": null,
+                                        "stringId": "94",
+                                        "template": "SpinPayPaymentGroup-template",
+                                        "requiresDocument": false,
+                                        "isCustom": false,
+                                        "description": null,
+                                        "requiresAuthentication": false,
+                                        "dueDate": "2021-11-29T18:54:53.0796817Z",
+                                        "availablePayments": null
+                                    },
+                                    {
+                                        "id": 16,
+                                        "name": "Vale",
+                                        "groupName": "giftCardPaymentGroup",
+                                        "validator": null,
+                                        "stringId": "16",
+                                        "template": "giftCardPaymentGroup-template",
+                                        "requiresDocument": false,
+                                        "isCustom": false,
+                                        "description": null,
+                                        "requiresAuthentication": false,
+                                        "dueDate": "2021-11-29T18:54:53.0796817Z",
+                                        "availablePayments": null
+                                    },
+                                    {
+                                        "id": 125,
+                                        "name": "Pix",
+                                        "groupName": "instantPaymentPaymentGroup",
+                                        "validator": null,
+                                        "stringId": "125",
+                                        "template": "instantPaymentPaymentGroup-template",
+                                        "requiresDocument": false,
+                                        "isCustom": false,
+                                        "description": null,
+                                        "requiresAuthentication": false,
+                                        "dueDate": "2021-11-29T18:54:53.0796817Z",
+                                        "availablePayments": null
+                                    },
+                                    {
+                                        "id": 6,
+                                        "name": "Boleto Bancário",
+                                        "groupName": "bankInvoicePaymentGroup",
+                                        "validator": null,
+                                        "stringId": "6",
+                                        "template": "bankInvoicePaymentGroup-template",
+                                        "requiresDocument": false,
+                                        "isCustom": false,
+                                        "description": null,
+                                        "requiresAuthentication": false,
+                                        "dueDate": "2021-11-29T18:54:53.0796817Z",
+                                        "availablePayments": null
+                                    }
+                                ],
+                                "payments": [],
+                                "giftCards": [],
+                                "giftCardMessages": [],
+                                "availableAccounts": [],
+                                "availableTokens": []
+                            }
+                        }
+                    }
+                ],
+                "Videos": [],
+                "estimatedDateArrival": null
+            }
+        ],
+        "skuSpecifications": [
+            {
+                "field": {
+                    "id": 462,
+                    "name": "tamanho sku",
+                    "isActive": true,
+                    "position": 1,
+                    "type": "Radio"
+                },
+                "values": [
+                    {
+                        "id": "13298",
+                        "name": "250ml",
+                        "position": 29
+                    }
+                ]
+            }
+        ]
+    }
+]

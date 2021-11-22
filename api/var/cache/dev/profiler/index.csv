@@ -1,0 +1,4 @@
+8a4bd4,192.168.128.1,GET,http://localhost:8080/search,1637615101,c2c807,500
+c2c807,192.168.128.1,GET,http://localhost:8080/search,1637615101,,500
+ebb14e,192.168.128.1,GET,http://localhost:8080/search,1637615115,,200
+42bd77,192.168.160.1,GET,http://localhost:8080/search,1637615299,,200

@@ -1,0 +1,29 @@
+parameters:
+
+services:
+    _defaults:
+        autowire: true      
+        autoconfigure: true
+
+    Dominio\Product\:
+        resource: '../src/Product/*'
+        exclude: '../src/Product/{DependencyInjection,Entity,Tests,Kernel.php}'
+
+    Dominio\Product\Infrastructure\Delivery\:
+        resource: '../src/Product/Infrastructure/Delivery'
+        tags: ['controller.service_arguments']
+
+    Doctrine\Persistence\ObjectManager: '@doctrine.orm.default_entity_manager'
+    Doctrine\Common\Persistence\ObjectManager: '@doctrine.orm.default_entity_manager'
+
+    GuzzleHttp\Client:
+        class: GuzzleHttp\Client
+
+    Dominio\Product\Domain\SearchClient: '@search.client'
+
+    search.client:
+        class: 'Dominio\Product\Infrastructure\VtexSearchClient'
+        arguments:
+            $baseUrl: '%env(BASE_URL)%'
+
+
