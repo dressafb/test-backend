@@ -6,7 +6,7 @@
 
 2. Clone este repositório.
 
-3. Suba o ambiente:
+3. Suba o ambiente com o comando:
 
 `make up`
 
